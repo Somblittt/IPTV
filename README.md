@@ -1,10 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="Canais Fechados", Animal Planet 4K
-http://u9in.club:8080/adelson10/adelson20/72578
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="Canais Fechados", Animal Planet FHD
-http://vipeiptv.com:25461/railson123/123railson/856287
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="Canais Fechados", Animal Planet HD
-http://u9in.club:8080/adelson10/adelson20/82902
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="Canais Fechados", Animal Planet SD
-http://u9in.club:/adelson10/adelson20/829008080
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908876606297243648/canalviva2_59de2e17c2cd9a1f7a709d0fdafeea4b2eddb7e1.png" group-title="Canais Fechados", Viva 4K
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908876606297243648/canalviva2_59de2e17c2cd9a1f7a709d0fdafeea4b2eddb7e1.png" group-title="Canais Fechados", Viva 4K
+http://portal.supertela.cloudns.cl:80/marlene/123456/52003
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908876606297243648/canalviva2_59de2e17c2cd9a1f7a709d0fdafeea4b2eddb7e1.png" group-title="Canais Fechados", Viva FHD
+http://portal.supertela.cloudns.cl:80/marlene/123456/824
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908876606297243648/canalviva2_59de2e17c2cd9a1f7a709d0fdafeea4b2eddb7e1.png" group-title="Canais Fechados", Viva HD
+http://portal.supertela.cloudns.cl:80/marlene/123456/689
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908876606297243648/canalviva2_59de2e17c2cd9a1f7a709d0fdafeea4b2eddb7e1.png" group-title="Canais Fechados", Viva SD
+http://portal.supertela.cloudns.cl:80/marlene/123456/690

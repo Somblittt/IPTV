@@ -8,7 +8,7 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
 
-#EXTINF:-1 tvg-logo=" " group-title="Canais abertos", TV BRASIL
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/905209647034671134/908085916541804594/htlDwTFrFqggAAAABJRU5ErkJggg.png" group-title="Canais Abertos", TV BRASIL
 https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/playlist.m3u8
 
 

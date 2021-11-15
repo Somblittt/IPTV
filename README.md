@@ -22,5 +22,3 @@ https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Canais Fechados", Retrô TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-
-

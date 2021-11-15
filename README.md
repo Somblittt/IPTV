@@ -12,6 +12,7 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-logo=" " group-title=" ddd", dwadwa
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
 
 

@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=" " group-title="Canais Abertos", Globo RJ
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FoQPA_jviBY/YTERLTmXKPI/AAAAAAAAFVw/iZ1wvyUrHbUOGKTRdlFFXWeO5lggKpdkQCLcBGAsYHQ/s200/WEB%2BTV%2BCINE.webp" group-title="Abertos", TvCine
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8

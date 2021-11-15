@@ -76,3 +76,49 @@ http://portal.supertela.cloudns.cl:80/marlene/123456/817
 http://portal.supertela.cloudns.cl:80/marlene/123456/661
 #EXTINF:-1,Telecine Pipoca SD
 http://portal.supertela.cloudns.cl:80/marlene/123456/662
+
+
+#EXTINF:-1,Record RJ HD
+http://portal.supertela.cloudns.cl:80/marlene/123456/606
+
+
+#EXTINF:-1,SBT RJ HD
+http://portal.supertela.cloudns.cl:80/marlene/123456/625
+
+
+#EXTINF:-1,SBT SP 4K
+http://portal.supertela.cloudns.cl:80/marlene/123456/263
+#EXTINF:-1,SBT SP FHD
+http://portal.supertela.cloudns.cl:80/marlene/123456/801
+#EXTINF:-1,SBT SP HD
+http://portal.supertela.cloudns.cl:80/marlene/123456/627
+#EXTINF:-1,SBT SP SD
+http://portal.supertela.cloudns.cl:80/marlene/123456/628
+
+
+#EXTINF:-1,Record News FHD
+http://portal.supertela.cloudns.cl:80/marlene/123456/798
+#EXTINF:-1,Record News HD
+http://portal.supertela.cloudns.cl:80/marlene/123456/603
+#EXTINF:-1,Record News SD
+http://portal.supertela.cloudns.cl:80/marlene/123456/604
+
+
+#EXTINF:-1,HBO Plus 4K
+http://portal.supertela.cloudns.cl:80/marlene/123456/41585
+#EXTINF:-1,HBO Plus FHD LEG
+http://portal.supertela.cloudns.cl:80/marlene/123456/20776
+#EXTINF:-1,HBO Plus HD LEG
+http://portal.supertela.cloudns.cl:80/marlene/123456/20777
+
+
+#EXTINF:-1,HBO Xtreme 4K
+http://portal.supertela.cloudns.cl:80/marlene/123456/256
+#EXTINF:-1,HBO Xtreme FHD
+http://portal.supertela.cloudns.cl:80/marlene/123456/775
+#EXTINF:-1,HBO Xtreme HD
+http://portal.supertela.cloudns.cl:80/marlene/123456/538
+#EXTINF:-1,HBO Xtreme SD
+http://portal.supertela.cloudns.cl:80/marlene/123456/539
+
+
